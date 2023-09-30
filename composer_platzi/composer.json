@@ -1,0 +1,24 @@
+{
+    "name": "cvinux/composer_platzi",
+    "description": "Ejemplo de composer con platzi",
+    "type": "library",
+    "require": {
+        "nesbot/carbon": "3.x-dev"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "10.4.x-dev"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Cvinux\\ComposerPlatzi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "cvinux",
+            "email": "cvinux@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}

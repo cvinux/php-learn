@@ -4,8 +4,8 @@
         "psr-4": {
             "Text\\": "src/"
         },
-    "files": [
-        "src/helpers.php"
+        "files": [
+            "src/helpers.php"
     ]
     }
 }
